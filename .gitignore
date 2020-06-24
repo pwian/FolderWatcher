@@ -1,0 +1,8 @@
+bin
+obj
+packages
+*.stackdump
+*.user
+*.suo
+*.vscode*
+.vs
