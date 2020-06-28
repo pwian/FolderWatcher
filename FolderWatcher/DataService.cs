@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FolderWatcher
 {
-    class DataService : IDataService
+    public class DataService : IDataService
     {
         public void AddEvent(Event model)
         {
